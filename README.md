@@ -38,7 +38,7 @@
 <h2> Connect with me <img src='https://static.showit.co/file/GauJdDCbQJWt-qBhijyxgA/112804/textmessage_gif.gif' width="40px"> </h2>
 <a href = 'https://www.linkedin.com/in/luisafpinillos/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/Luipv_20'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/LuisaPinillos'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://github.com/LuisaPinillos?tab=repositories'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
  <h2> My GitHub Stats </h2>
