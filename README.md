@@ -10,14 +10,13 @@
   
   <img src = "https://i.graphicmama.com/blog/wp-content/uploads/2021/06/10112619/Free-PowerPoint-Animations-Graphic-Mama-Character-Gif-Animation-14.gif" width = 400px>
 
-  
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=Black&right_color=Indigo)
-  
 </div>
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=Black&right_color=Teal)
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src=https://d2z8nyy70yf33i.cloudfront.net/wp-content/uploads/02_gif.gif/>
+<img width="55%" align="right" alt="Github" src="https://d2z8nyy70yf33i.cloudfront.net/wp-content/uploads/02_gif.gif"/>
 
 
 - 👩‍💻 I’m currently working on Holberton software projects.
@@ -37,9 +36,9 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/laura-caicedo-341573215/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/@LauSCaicedo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/LauSCaicedo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/luisafpinillos/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://twitter.com/Luipv_20'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/LuisaPinillos'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
  <h2> My GitHub Stats </h2>
