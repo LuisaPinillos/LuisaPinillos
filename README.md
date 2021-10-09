@@ -45,17 +45,15 @@
  <h3 align="center">
 
    
-   ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=LuisaPinillos&show_icons=true&title_color=fff&icon_color=0B615E&text_color=088A85&bg_color=151515)
-
+   ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=LuisaPinillos&show_icons=true&theme=gotham)
 
 </h3>
+
 
 <h3 align="center">
 
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaPinillos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaPinillos&show_icons=true&title_color=088A68&icon_color=79ff97&text_color=9f9f9f&bg_color=071418)
 
 </h3> 
 
@@ -63,7 +61,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 
-<img src = "https://i.imgur.com/jbvlrax.gif" width = 70px>
+<img src = "https://media0.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif" width = 300px>
   
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
