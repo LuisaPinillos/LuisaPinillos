@@ -68,4 +68,3 @@
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
   
-This is a project about Stacks and Queues in C.
