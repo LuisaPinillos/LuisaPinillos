@@ -25,7 +25,7 @@
 
 - 🤖 I like Machine learning, Data science and Artificial Intelligence.
 
-- 🚀 I’m looking to collaborate on Projects
+- 🚀 I’m looking to collaborate on programming projects
 
 - 💬 Talk to me about C, Python, Science, and knowledge that you want to share with me.
 
