@@ -23,9 +23,9 @@
 
 - 📚 I’m currently learning Software programming foundations.
   
-- 🎯 I'm studying to be a full stack software developer
+- 🎯 I'm studying to be a full stack software developer.
   
-- 👷‍♀ I'm an industrial engineer
+- 👷‍♀ I'm an industrial engineer.
 
 - 🤖 I like Machine learning, Data science and Artificial Intelligence.
 
