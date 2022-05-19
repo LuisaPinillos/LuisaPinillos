@@ -1,5 +1,5 @@
 <div align='center'>
-<h1> Hello < My name is Luisa Fernanda Pinillos Villa/ >!
+<h1> Hello! < My name is Luisa Fernanda Pinillos Villa/ >
   <h3> Software Engineer Student at Holberton School </h3>
   </div>
 <p align='center'>
@@ -22,12 +22,16 @@
 - 👩‍💻 I’m currently working on Holberton software projects.
 
 - 📚 I’m currently learning Software programming foundations.
+  
+- 🎯 I'm studying to be a full stack software developer
+  
+- 👷‍♀ I'm an industrial engineer
 
 - 🤖 I like Machine learning, Data science and Artificial Intelligence.
 
 - 🚀 I’m looking to collaborate on programming projects.
 
-- 💬 Talk to me about C, Python, Science, and knowledge that you want to share with me.
+- 💬 Talk to me about Programming, Technology, Engineering, Science, and knowledge that you want to share with me.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/LuisaPinillos?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
