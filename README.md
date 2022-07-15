@@ -8,7 +8,7 @@
 </div>
 <div align='center'>
   
-  <img src = "https://i.graphicmama.com/blog/wp-content/uploads/2021/06/10112619/Free-PowerPoint-Animations-Graphic-Mama-Character-Gif-Animation-14.gif" width = 200px>
+  <img src = "https://i.graphicmama.com/blog/wp-content/uploads/2021/06/10112619/Free-PowerPoint-Animations-Graphic-Mama-Character-Gif-Animation-14.gif" width = 300px>
 
 </div>
 
