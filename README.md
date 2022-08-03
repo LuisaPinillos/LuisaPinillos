@@ -18,17 +18,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://d2z8nyy70yf33i.cloudfront.net/wp-content/uploads/02_gif.gif"/>
 
-- 🌟💜 My personal motto is never stop learning new things and improving yourself.
+- 🌟💜 Never stop learning new things and improving yourself.
   
-- 👩‍💻 I’m currently working on Holberton software projects.
-
-- 📚 I’m currently learning Software programming foundations.
-  
-- 🎯 I'm studying to be a Full Stack Software Developer.
+- 👩‍💻 I’m currently working on Holberton Full-Stack software projects.
   
 - 👷‍♀ I'm an Industrial Engineer.
 
-- 🤖 I like Machine learning, Data science and Artificial Intelligence.
+- 🤖 I'll like to study Machine learning and Data science
 
 - 🚀 I’m looking to collaborate on programming projects.
 
