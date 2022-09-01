@@ -20,11 +20,11 @@
 
 - 🌟💜 Never stop learning new things and improving yourself.
   
-- 👩‍💻 I’m currently working on Holberton Full-Stack software projects.
+- 👩‍💻 I’m currently making on Holberton Full-Stack software projects.
   
 - 👷‍♀ I'm an Industrial Engineer.
 
-- 🤖 I like Machine learning and Data science
+- 🤖 I'll like to study Machine learning and Data science
 
 - 🚀 I’m looking to collaborate on programming projects.
 
