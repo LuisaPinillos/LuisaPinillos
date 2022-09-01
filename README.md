@@ -20,7 +20,7 @@
 
 - 🌟💜 Never stop learning new things and improving yourself.
   
-- 👩‍💻 I’m currently making on Holberton Full-Stack software projects.
+- 👩‍💻 I’m currently making Holberton Full-Stack software projects.
   
 - 👷‍♀ I'm an Industrial Engineer.
 
